@@ -1,2 +1,2 @@
-# fs2.finalproject_g2
-fs2  group2 final project ""
+# peddle project
+FS2 group Final Project
